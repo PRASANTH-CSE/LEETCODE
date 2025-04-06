@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prasanth-Newbie/mine/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Prasanth-Newbie/mine/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 ## Brainteaser
 |  |
 | ------- |
