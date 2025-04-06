@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Prasanth-Newbie/mine/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Prasanth-Newbie/mine/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Prasanth-Newbie/mine/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Prasanth-Newbie/mine/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
