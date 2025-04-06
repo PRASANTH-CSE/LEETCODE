@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prasanth-Newbie/mine/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 ## Simulation
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prasanth-Newbie/mine/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
