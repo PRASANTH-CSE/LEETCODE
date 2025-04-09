@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Prasanth-Newbie/mine/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prasanth-Newbie/mine/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Prasanth-Newbie/mine/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Prasanth-Newbie/mine/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prasanth-Newbie/mine/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Prasanth-Newbie/mine/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
