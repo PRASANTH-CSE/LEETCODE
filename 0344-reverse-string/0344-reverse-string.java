@@ -9,6 +9,6 @@ class Solution {
                 s[j]=s[i];
                 s[i]=t;
         }
-        System.out.println(Arrays.toString(s));
+        //System.out.println(Arrays.toString(s));
     }
 }
