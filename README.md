@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Prasanth-Newbie/mine/tree/master/0485-max-consecutive-ones) |
+| [0978-valid-mountain-array](https://github.com/Prasanth-Newbie/mine/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## Hash Table
