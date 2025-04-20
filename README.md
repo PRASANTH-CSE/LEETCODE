@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Prasanth-Newbie/mine/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/Prasanth-Newbie/mine/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Prasanth-Newbie/mine/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
