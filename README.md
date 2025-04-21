@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prasanth-Newbie/mine/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prasanth-Newbie/mine/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Prasanth-Newbie/mine/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Prasanth-Newbie/mine/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prasanth-Newbie/mine/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Prasanth-Newbie/mine/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Prasanth-Newbie/mine/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Prasanth-Newbie/mine/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
