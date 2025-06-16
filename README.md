@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prasanth-Newbie/mine/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/Prasanth-Newbie/mine/tree/master/0782-jewels-and-stones) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Prasanth-Newbie/mine/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0541-reverse-string-ii) |
+| [0782-jewels-and-stones](https://github.com/Prasanth-Newbie/mine/tree/master/0782-jewels-and-stones) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
