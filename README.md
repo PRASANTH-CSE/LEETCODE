@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasanth-Newbie/mine/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Prasanth-Newbie/mine/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/Prasanth-Newbie/mine/tree/master/0978-valid-mountain-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasanth-Newbie/mine/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prasanth-Newbie/mine/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Prasanth-Newbie/mine/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0541-reverse-string-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prasanth-Newbie/mine/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
