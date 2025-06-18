@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasanth-Newbie/mine/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Prasanth-Newbie/mine/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasanth-Newbie/mine/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Prasanth-Newbie/mine/tree/master/0782-jewels-and-stones) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prasanth-Newbie/mine/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
 ## Bit Manipulation
 |  |
