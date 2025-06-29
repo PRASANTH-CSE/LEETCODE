@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasanth-Newbie/mine/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prasanth-Newbie/mine/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Prasanth-Newbie/mine/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Prasanth-Newbie/mine/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Prasanth-Newbie/mine/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prasanth-Newbie/mine/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/Prasanth-Newbie/mine/tree/master/2249-count-the-hidden-sequences) |
 ## Stack
 |  |
