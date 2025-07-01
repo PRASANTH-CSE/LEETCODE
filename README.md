@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasanth-Newbie/mine/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prasanth-Newbie/mine/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Prasanth-Newbie/mine/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasanth-Newbie/mine/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Prasanth-Newbie/mine/tree/master/0782-jewels-and-stones) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prasanth-Newbie/mine/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Prasanth-Newbie/mine/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prasanth-Newbie/mine/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prasanth-Newbie/mine/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prasanth-Newbie/mine/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prasanth-Newbie/mine/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prasanth-Newbie/mine/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
