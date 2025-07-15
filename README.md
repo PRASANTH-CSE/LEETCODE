@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Prasanth-Newbie/mine/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prasanth-Newbie/mine/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
+| [3396-valid-word](https://github.com/Prasanth-Newbie/mine/tree/master/3396-valid-word) |
 ## Simulation
 |  |
 | ------- |
