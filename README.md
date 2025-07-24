@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prasanth-Newbie/mine/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Prasanth-Newbie/mine/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Prasanth-Newbie/mine/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasanth-Newbie/mine/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
@@ -186,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
