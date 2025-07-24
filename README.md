@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prasanth-Newbie/mine/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prasanth-Newbie/mine/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Prasanth-Newbie/mine/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Prasanth-Newbie/mine/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Prasanth-Newbie/mine/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
 ## Prefix Sum
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prasanth-Newbie/mine/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
