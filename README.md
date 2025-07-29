@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Prasanth-Newbie/mine/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Prasanth-Newbie/mine/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
