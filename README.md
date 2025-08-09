@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Prasanth-Newbie/mine/tree/master/0089-gray-code) |
+| [0461-hamming-distance](https://github.com/Prasanth-Newbie/mine/tree/master/0461-hamming-distance) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
 ## Prefix Sum
 |  |
