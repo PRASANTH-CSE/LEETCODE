@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prasanth-Newbie/mine/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Prasanth-Newbie/mine/tree/master/1137-height-checker) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prasanth-Newbie/mine/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prasanth-Newbie/mine/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2249-count-the-hidden-sequences](https://github.com/Prasanth-Newbie/mine/tree/master/2249-count-the-hidden-sequences) |
 | [2502-sort-the-people](https://github.com/Prasanth-Newbie/mine/tree/master/2502-sort-the-people) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Prasanth-Newbie/mine/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Prasanth-Newbie/mine/tree/master/0728-self-dividing-numbers) |
 | [0994-prison-cells-after-n-days](https://github.com/Prasanth-Newbie/mine/tree/master/0994-prison-cells-after-n-days) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prasanth-Newbie/mine/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/PRASANTH-CSE/mine/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Binary Search
 |  |
