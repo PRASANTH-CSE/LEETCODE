@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Prasanth-Newbie/mine/tree/master/0175-combine-two-tables) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Prasanth-Newbie/mine/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Heap (Priority Queue)
 |  |
